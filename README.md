@@ -2,7 +2,7 @@
 
 List of react native apps on [sketch.expo.io](https://sketch.expo.io)
 
-[Shortest valid app](https://sketch.expo.io/rydGv8usl) (32 chars) by [nikki93](https://github.com/nikki93):
+[Shortest valid app](https://sketch.expo.io/r1s2Wwuol) (32 chars) by [nikki93](https://github.com/nikki93):
 
 ```es6
 export default __exponent.GLView
