@@ -1,4 +1,4 @@
-# sketch-reactive-native-apps
+# sketch-react-native-apps
 
 List of react native apps on [sketch.expo.io](https://sketch.expo.io)
 
