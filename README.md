@@ -1,4 +1,4 @@
-# sketch-react-native-apps
+# snack-react-native-apps
 
 List of react native apps on [snack.expo.io](https://snack.expo.io)
 
