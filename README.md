@@ -56,4 +56,4 @@ Pull requests are very welcome :).
 
 ### Want more?
 
-[doma.io](http://doma.io/) && [@bydorian](twitter.com/bydorian)
+[doma.io](http://doma.io/) && [@bydorian](https://twitter.com/bydorian)
