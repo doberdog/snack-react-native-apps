@@ -1,4 +1,4 @@
-// https://sketch.expo.io/B1EAShDie
+// https://snack.expo.io/B1EAShDie
 
 import React, { Component } from 'react';
 import { Image, StyleSheet } from 'react-native';
